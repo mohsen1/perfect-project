@@ -47,7 +47,7 @@
     "tslib": "^1.7.1",
     "typescript": "^2.4.1",
     "universal-async-component": "^1.0.0",
-    "webpack": "^3.1.0",
+    "webpack": "^5.0.0",
     "webpack-dev-middleware": "^2.0.4",
     "webpack-hot-middleware": "^2.18.2",
     "webpack-hot-server-middleware": "^0.4.0",
